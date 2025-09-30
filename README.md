@@ -7,7 +7,7 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 - 🌱 I'm currently learning **[Technologies you're learning]**
 - 👯 I'm looking to collaborate on **[Types of projects]**
 - 💬 Ask me about **[Your expertise areas]**
-- 📫 How to reach me: **[your.email@example.com]**
+- 📫 How to reach me: **[asheniduwara60@gmail.com]**
 - ⚡ Fun fact: **[Something interesting about you]**
 
 ## 🛠️ Technologies & Tools

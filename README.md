@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm ashen induwara 👋
 
 ## 🚀 About Me
 I'm a passionate developer who loves creating innovative solutions and contributing to open-source projects. I enjoy working with modern technologies and continuously learning new skills.

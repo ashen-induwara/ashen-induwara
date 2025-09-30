@@ -125,7 +125,7 @@ hobbies: ["Gaming", "Reading", "Contributing to Open Source"]
 
 <div align="center">
 
-<a href="https://github.com/ashen-induwara/project1">
+<a href="https://github.com/ashen-induwara/3x-ui-client-portal">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashen-induwara&repo=project1&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" />
 </a>
 

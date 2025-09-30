@@ -48,17 +48,17 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ashen-induwara&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashen-induwara&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashen-induwara&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ashen-induwara&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
 
 ## 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashen-induwara&theme=github-compact&hide_border=true)
 
 ## 🔥 Recent Activity
 <!--START_SECTION:activity-->
